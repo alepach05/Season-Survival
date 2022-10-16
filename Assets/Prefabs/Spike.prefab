@@ -99,6 +99,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   indestructible: 1
+  knockback: 10
+  life: 1
 --- !u!61 &5166842281254238220
 BoxCollider2D:
   m_ObjectHideFlags: 0
