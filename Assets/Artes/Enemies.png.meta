@@ -2795,7 +2795,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_127
+      name: Arrow_0
       rect:
         serializedVersion: 2
         x: 9
@@ -3272,8 +3272,8 @@ TextureImporter:
       Enemies_135: -688014293
       Enemies_123: 311955144
       Enemies_89: 422605225
-      Enemies_40: 2093006461
       Enemies_110: 670837507
+      Enemies_40: 2093006461
       Enemies_2: -1811152481
       BatMov_0: 1920724295
       Enemies_38: -1686373657
@@ -3288,7 +3288,6 @@ TextureImporter:
       Enemies_61: 1805048803
       Enemies_82: 1746023172
       Enemies_126: 832667694
-      Enemies_127: 201607696
       Enemies_64: 1953040232
       Enemies_50: 1097775258
       Enemies_29: -99973442
@@ -3317,6 +3316,7 @@ TextureImporter:
       Enemies_67: -1846456845
       Enemies_101: 1870362924
       Enemies_134: 1885575320
+      Arrow_0: 201607696
       Enemies_88: -2104447737
       Enemies_90: -296965978
       Enemies_16: -1170835855
