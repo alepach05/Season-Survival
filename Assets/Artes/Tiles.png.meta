@@ -21380,10 +21380,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiles_1126
+      name: SnowWall_1
       rect:
         serializedVersion: 2
-        x: 64
+        x: 71
         y: 104
         width: 8
         height: 8
@@ -24725,7 +24725,7 @@ TextureImporter:
       Tiles_362: -1318387640
       Tiles_467: 292002079
       Tiles_84: -2036865657
-      Tiles_1311: 187846445
+      Tiles_235: -56691494
       Tiles_1263: -1353609739
       Tiles_678: 1482097766
       Tiles_778: -1402696339
@@ -24902,7 +24902,6 @@ TextureImporter:
       Tiles_1073: -174073904
       Tiles_888: 1505660795
       Tiles_923: 1079265926
-      Tiles_1126: 1670073024
       Tiles_16: -1079078830
       SnowPlatform_4: 1372016158
       Tiles_71: 510887585
@@ -25954,6 +25953,7 @@ TextureImporter:
       Warp: -2051968157
       Tiles_759: -1833136392
       Tiles_1276: -858864673
+      SnowWall_1: 1670073024
       Tiles_112: -948244469
       Tiles_856: 1328975359
       Tiles_634: 1084106441
@@ -26050,7 +26050,7 @@ TextureImporter:
       Tiles_243: 287782953
       Tiles_1097: 1341516098
       Tiles_328: 780029888
-      Tiles_235: -56691494
+      Tiles_1311: 187846445
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
