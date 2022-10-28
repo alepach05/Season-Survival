@@ -260,7 +260,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: speed
-      value: 7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: knockback
@@ -400,7 +400,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!50 &36250427
@@ -727,7 +727,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: speed
-      value: 7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: knockback
@@ -1522,7 +1522,7 @@ PrefabInstance:
       objectReference: {fileID: 1587644557, guid: 88015afe510430340841f541c9886fb8, type: 3}
     - target: {fileID: 5166842281254238223, guid: 6dd44becb9f0d7d42b04960729d6f249, type: 3}
       propertyPath: m_RootOrder
-      value: 29
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 5166842281254238223, guid: 6dd44becb9f0d7d42b04960729d6f249, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1596,7 +1596,7 @@ PrefabInstance:
       objectReference: {fileID: 1587644557, guid: 88015afe510430340841f541c9886fb8, type: 3}
     - target: {fileID: 5166842281254238223, guid: 6dd44becb9f0d7d42b04960729d6f249, type: 3}
       propertyPath: m_RootOrder
-      value: 28
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 5166842281254238223, guid: 6dd44becb9f0d7d42b04960729d6f249, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1670,7 +1670,7 @@ PrefabInstance:
       objectReference: {fileID: 1587644557, guid: 88015afe510430340841f541c9886fb8, type: 3}
     - target: {fileID: 5166842281254238223, guid: 6dd44becb9f0d7d42b04960729d6f249, type: 3}
       propertyPath: m_RootOrder
-      value: 27
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 5166842281254238223, guid: 6dd44becb9f0d7d42b04960729d6f249, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3250,7 +3250,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1066399546
@@ -3593,7 +3593,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: speed
-      value: 7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: knockback
@@ -8153,7 +8153,7 @@ PrefabInstance:
       objectReference: {fileID: 1587644557, guid: 88015afe510430340841f541c9886fb8, type: 3}
     - target: {fileID: 5166842281254238223, guid: 6dd44becb9f0d7d42b04960729d6f249, type: 3}
       propertyPath: m_RootOrder
-      value: 26
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 5166842281254238223, guid: 6dd44becb9f0d7d42b04960729d6f249, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8253,7 +8253,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1615099327
@@ -10951,7 +10951,7 @@ PrefabInstance:
       objectReference: {fileID: 1587644557, guid: 88015afe510430340841f541c9886fb8, type: 3}
     - target: {fileID: 5166842281254238223, guid: 6dd44becb9f0d7d42b04960729d6f249, type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 5166842281254238223, guid: 6dd44becb9f0d7d42b04960729d6f249, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11174,7 +11174,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1893326336

@@ -252,7 +252,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: speed
-      value: 7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: knockback
@@ -392,7 +392,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!50 &36250427
@@ -901,7 +901,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: speed
-      value: 7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: knockback
@@ -1653,7 +1653,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 5
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &516811907
@@ -3666,7 +3666,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1066399546
@@ -4101,7 +4101,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: speed
-      value: 7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: knockback
@@ -4344,7 +4344,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1214042523
@@ -4849,7 +4849,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1449659694
@@ -5312,16 +5312,6 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
-  - first: {x: 108, y: 9, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 11
-      m_TileSpriteIndex: 11
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      dummyAlignment: 0
-      m_AllTileFlags: 1073741825
   - first: {x: 111, y: 9, z: 0}
     second:
       serializedVersion: 2
@@ -5406,7 +5396,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 94bfe01355ce99f4fa9c18d41c76e601, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 80a0c5dbb497b54448282f12752baf6d, type: 2}
-  - m_RefCount: 2
+  - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 8071354d5dc91fc4da34bcd22bae6687, type: 2}
   m_TileSpriteArray:
   - m_RefCount: 0
@@ -5431,10 +5421,10 @@ Tilemap:
     m_Data: {fileID: -682164620, guid: 88015afe510430340841f541c9886fb8, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 1116284485, guid: 88015afe510430340841f541c9886fb8, type: 3}
-  - m_RefCount: 2
+  - m_RefCount: 1
     m_Data: {fileID: -1668497970, guid: 88015afe510430340841f541c9886fb8, type: 3}
   m_TileMatrixArray:
-  - m_RefCount: 21
+  - m_RefCount: 20
     m_Data:
       e00: 1
       e01: 0
@@ -5453,7 +5443,7 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 21
+  - m_RefCount: 20
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
@@ -5641,7 +5631,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1615099327
@@ -8837,7 +8827,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1893326336
@@ -9112,7 +9102,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1933996206

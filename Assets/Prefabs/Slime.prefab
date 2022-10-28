@@ -228,7 +228,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 10
   life: 1
-  speed: 5
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!1 &6093540743377058413
