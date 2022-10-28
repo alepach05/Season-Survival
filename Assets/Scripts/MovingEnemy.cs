@@ -33,7 +33,7 @@ public class MovingEnemy : Enemy
 
     private void FixedUpdate()
     {
-        rigidBody2D.velocity = new Vector2(direction, rigidBody2D.velocity.y);
+        rigidBody2D.velocity = new Vector2(direction * speed, rigidBody2D.velocity.y);
     }
 
     //IEnumerator DirectionChange(){
