@@ -2987,7 +2987,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8983797c968f21a4994d534fe908ccd9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  level: 1
+  level: 6
   winSpot: {fileID: 1243949458}
   player: {fileID: 821445224}
   checkPoints:

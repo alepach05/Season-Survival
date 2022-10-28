@@ -14702,13 +14702,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiles_868
+      name: Box_0
       rect:
         serializedVersion: 2
         x: 120
         y: 232
-        width: 8
-        height: 8
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -15017,13 +15017,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiles_884
+      name: Box_1
       rect:
         serializedVersion: 2
         x: 112
         y: 224
-        width: 8
-        height: 8
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -16934,7 +16934,7 @@ TextureImporter:
         x: 3
         y: 160
         width: 12
-        height: 16
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -16955,7 +16955,7 @@ TextureImporter:
         x: 42
         y: 160
         width: 14
-        height: 19
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -18776,10 +18776,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiles_1126
+      name: SnowWall_1
       rect:
         serializedVersion: 2
-        x: 64
+        x: 71
         y: 104
         width: 8
         height: 8
@@ -19769,7 +19769,7 @@ TextureImporter:
         x: 132
         y: 64
         width: 9
-        height: 16
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -20708,12 +20708,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiles_1281
+      name: SnowBlock_0
       rect:
         serializedVersion: 2
         x: 0
         y: 24
-        width: 8
+        width: 7
         height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -22526,7 +22526,6 @@ TextureImporter:
       Tiles_647: 1708844043
       Tiles_888: 1505660795
       Tiles_923: 1079265926
-      Tiles_1126: 1670073024
       Tiles_16: -1079078830
       SnowPlatform_4: 1372016158
       Tiles_71: 510887585
@@ -22557,6 +22556,7 @@ TextureImporter:
       Tiles_1095: 224737536
       Tiles_1223: -1818474493
       Tiles_1333: 1454573407
+      SnowBlock_0: -943996124
       Tiles_614: 68413578
       Tiles_729: 124813957
       Tiles_1074: -773919827
@@ -22638,11 +22638,14 @@ TextureImporter:
       Tiles_334: 1261111380
       Tiles_624: -977923898
       Tiles_196: -1268834027
+<<<<<<< HEAD
+      Tiles_1085: 2035571013
+=======
       sand_3: -202002293
       Tiles_884: -506765341
+>>>>>>> ba2efdb57b2474d36a194f3630b70c8dad0ce257
       Tiles_632: -539067312
       Tiles_29: 107222313
-      Tiles_1085: 2035571013
       Tiles_45: -132560632
       SnowGrass_9: -698010361
       Tiles_303: -1270344018
@@ -23099,6 +23102,7 @@ TextureImporter:
       Tiles_516: 953051073
       Tiles_78: -1206667605
       Tiles_1182: 623580036
+      Box_1: -506765341
       Tiles_1237: -1150371559
       tree1: -2124527888
       Platform_cornerLeft: -1111749774
@@ -23351,6 +23355,7 @@ TextureImporter:
       Tiles_1184: 2126579104
       Tiles_1273: -1268197616
       Tiles_827: 63922692
+      Box_0: -692495544
       Tiles_704: -1726562732
       Tiles_952: 1410910701
       Tiles_443: -2140421444
@@ -23506,7 +23511,6 @@ TextureImporter:
       Tiles_218: -1785624153
       Tiles_200: -629885542
       Tiles_513: -1218334755
-      Tiles_868: -692495544
       Tiles_659: -692723716
       Tiles_903: -1931424728
       Tiles_122: 1186394459
@@ -23559,7 +23563,6 @@ TextureImporter:
       Tiles_1185: 432273249
       Tiles_665: -518846061
       Tiles_859: -291571405
-      Tiles_1281: -943996124
       Tiles_1286: 1981031185
       Tiles_1183: 2040549496
       Tiles_781: -643630207
@@ -23588,6 +23591,7 @@ TextureImporter:
       Warp: -2051968157
       Tiles_759: -1833136392
       Tiles_1276: -858864673
+      SnowWall_1: 1670073024
       Tiles_112: -948244469
       Dead flower 9: 1614419790
       Tiles_634: 1084106441
