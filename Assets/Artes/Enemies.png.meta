@@ -2942,7 +2942,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_134
+      name: frog_2
       rect:
         serializedVersion: 2
         x: 1
@@ -2963,13 +2963,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_135
+      name: frog_1
       rect:
         serializedVersion: 2
         x: 9
         y: 0
         width: 6
-        height: 5
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3005,7 +3005,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_137
+      name: frog_3
       rect:
         serializedVersion: 2
         x: 32
@@ -3237,15 +3237,28 @@ TextureImporter:
       Enemies_54: -34859667
       Enemies_133: 1822569270
       Enemies_53: -7705408
+<<<<<<< HEAD
       Enemies_71: 107322379
+=======
+>>>>>>> ba2efdb57b2474d36a194f3630b70c8dad0ce257
       Enemies_112: 223595002
       Enemies_26: 377832271
       Enemies_87: 2053768459
       Enemies_91: 1427720848
+<<<<<<< HEAD
       Enemies_115: 1416670197
       Enemies_8: -186731789
       Enemies_125: -94349759
       Enemies_13: 812657220
+=======
+      Enemies_71: 107322379
+      Enemies_125: -94349759
+      Enemies_8: -186731789
+      Enemies_115: 1416670197
+      Enemies_13: 812657220
+      frog_1: -688014293
+      Enemies_136: -1374110309
+>>>>>>> ba2efdb57b2474d36a194f3630b70c8dad0ce257
       Enemies_39: -425147457
       SlimeMov_1: 1218046276
       Enemies_108: -1008082424
@@ -3259,6 +3272,7 @@ TextureImporter:
       Enemies_22: -243839844
       Enemies_103: -949163446
       Enemies_113: -458695702
+      frog_2: 1885575320
       Enemies_9: -467369790
       Enemies_44: -502065999
       SlimeMov_4: 436783150
@@ -3269,11 +3283,11 @@ TextureImporter:
       Enemies_43: 1231639264
       Enemies_28: -448411537
       Enemies_48: 529058660
-      Enemies_135: -688014293
+      frog_3: 1633057950
       Enemies_123: 311955144
       Enemies_89: 422605225
-      Enemies_110: 670837507
       Enemies_40: 2093006461
+      Enemies_110: 670837507
       Enemies_2: -1811152481
       BatMov_0: 1920724295
       Enemies_38: -1686373657
@@ -3302,7 +3316,6 @@ TextureImporter:
       Enemies_6: -189721213
       Enemies_117: -637439864
       Enemies_142: -1081722752
-      Enemies_137: 1633057950
       Enemies_111: 930794301
       Enemies_21: -1581766170
       Enemies_120: -29284534
@@ -3315,8 +3328,11 @@ TextureImporter:
       Enemies_81: 1290459763
       Enemies_67: -1846456845
       Enemies_101: 1870362924
+<<<<<<< HEAD
       Enemies_134: 1885575320
       Arrow_0: 201607696
+=======
+>>>>>>> ba2efdb57b2474d36a194f3630b70c8dad0ce257
       Enemies_88: -2104447737
       Enemies_90: -296965978
       Enemies_16: -1170835855
