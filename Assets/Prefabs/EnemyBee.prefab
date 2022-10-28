@@ -145,7 +145,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8278240209720677466}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.45, y: 0.05, z: 0}
+  m_LocalPosition: {x: 1.45, y: 0.34, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -201,7 +201,7 @@ SpriteRenderer:
   m_Size: {x: 0.75, y: 0.875}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!95 &8278240209720677467
@@ -214,7 +214,7 @@ Animator:
   m_GameObject: {fileID: 8278240209720677466}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 3197df07af7ca1242b275e2f60de1522, type: 2}
+  m_Controller: {fileID: 9100000, guid: 3ba16cb1330d31e4daa5f58796c638d5, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -239,7 +239,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 10
   life: 3
-  speed: 10
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &8278240209720677444

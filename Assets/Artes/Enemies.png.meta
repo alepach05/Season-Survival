@@ -485,12 +485,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_17
+      name: bee1
       rect:
         serializedVersion: 2
         x: 34
         y: 105
-        width: 14
+        width: 8
         height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -506,12 +506,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_18
+      name: bee4
       rect:
         serializedVersion: 2
-        x: 50
+        x: 57
         y: 106
-        width: 14
+        width: 7
         height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3193,6 +3193,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: bee2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff360faea1b9b74bbc8da491d4184bf
+      internalID: -2102151770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bee3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 106
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2ac8c81dae1334b9ca681164f623d5
+      internalID: -2128306227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -3221,10 +3263,12 @@ TextureImporter:
       Enemies_131: 2097397399
       Enemies_99: 653066429
       Enemies_20: 420687847
+      bee1: -619384246
       Enemies_69: 1290555729
       Enemies_106: 2141985719
       SlimeMov_2: -1246965380
       Enemies_27: 1890595751
+      bee3: -2128306227
       Enemies_136: -1374110309
       Enemies_24: 1834164992
       Enemies_46: -1843639385
@@ -3235,137 +3279,10 @@ TextureImporter:
       Enemies_58: 302980008
       Enemies_30: -310520164
       Enemies_54: -34859667
+      bee4: -483570262
       Enemies_133: 1822569270
       Enemies_53: -7705408
-<<<<<<< HEAD
-      Enemies_71: 107322379
-=======
->>>>>>> ba2efdb57b2474d36a194f3630b70c8dad0ce257
-      Enemies_112: 223595002
-      Enemies_26: 377832271
-      Enemies_87: 2053768459
-      Enemies_91: 1427720848
-<<<<<<< HEAD
-      Enemies_115: 1416670197
-      Enemies_8: -186731789
-      Enemies_125: -94349759
-      Enemies_13: 812657220
-=======
-      Enemies_71: 107322379
-      Enemies_125: -94349759
-      Enemies_8: -186731789
-      Enemies_115: 1416670197
-      Enemies_13: 812657220
-      frog_1: -688014293
-      Enemies_136: -1374110309
->>>>>>> ba2efdb57b2474d36a194f3630b70c8dad0ce257
-      Enemies_39: -425147457
-      SlimeMov_1: 1218046276
-      Enemies_108: -1008082424
-      Enemies_114: -218236708
-      Enemies_65: 986667245
-      Enemies_19: 2042023071
-      Enemies_138: -568139171
-      Enemies_4: 1984465612
-      SlimeMov_0: -1346137231
-      SnakeMov_0: 715801387
-      Enemies_22: -243839844
-      Enemies_103: -949163446
-      Enemies_113: -458695702
-      frog_2: 1885575320
-      Enemies_9: -467369790
-      Enemies_44: -502065999
-      SlimeMov_4: 436783150
-      Enemies_80: -933600251
-      Enemies_73: 773316774
-      Enemies_84: 1294770640
-      Enemies_42: -2036516228
-      Enemies_43: 1231639264
-      Enemies_28: -448411537
-      Enemies_48: 529058660
-      frog_3: 1633057950
-      Enemies_123: 311955144
-      Enemies_89: 422605225
-      Enemies_40: 2093006461
-      Enemies_110: 670837507
-      Enemies_2: -1811152481
-      BatMov_0: 1920724295
-      Enemies_38: -1686373657
-      Enemies_77: -1708153982
-      Enemies_51: 356538050
-      Enemies_104: -707537296
-      Enemies_63: -372307767
-      BatMov_2: -511112249
-      Enemies_92: -2023768064
-      Enemies_122: 449474293
-      Enemies_86: 2009414894
-      Enemies_61: 1805048803
-      Enemies_82: 1746023172
-      Enemies_126: 832667694
-      Enemies_64: 1953040232
-      Enemies_50: 1097775258
-      Enemies_29: -99973442
-      Enemies_70: 2009175521
-      Enemies_25: 1731048622
-      Enemies_0: -784295758
-      Enemies_100: 876188822
-      Enemies_68: 245467991
-      Enemies_143: 1853701119
-      Enemies_97: -529448230
-      Enemies_121: -1628374642
-      Enemies_6: -189721213
-      Enemies_117: -637439864
-      Enemies_142: -1081722752
-      Enemies_111: 930794301
-      Enemies_21: -1581766170
-      Enemies_120: -29284534
-      Enemies_31: 1598472622
-      Enemies_116: 205023079
-      SnakeMov_2: -393744556
-      Enemies_37: -1027572030
-      Enemies_56: -942445481
-      Enemies_74: -2000942731
-      Enemies_81: 1290459763
-      Enemies_67: -1846456845
-      Enemies_101: 1870362924
-<<<<<<< HEAD
-      Enemies_134: 1885575320
-      Arrow_0: 201607696
-=======
->>>>>>> ba2efdb57b2474d36a194f3630b70c8dad0ce257
-      Enemies_88: -2104447737
-      Enemies_90: -296965978
-      Enemies_16: -1170835855
-      Enemies_18: -483570262
-      Enemies_10: 1140001741
-      Enemies_78: -659814125
-      Enemies_79: 1878389326
-      Enemies_41: 1561115522
-      Enemies_32: 629582009
-      Enemies_1: 1171324329
-      Enemies_52: 101190414
-      Enemies_5: 1772921394
-      Enemies_15: -1542631645
-      Enemies_12: -1055367182
-      Enemies_98: 667084891
-      Enemies_57: -308819215
-      Enemies_72: -557646018
-      Enemies_107: 472530247
-      Enemies_132: 491294559
-      Enemies_124: -1626936822
-      SlimeMov_3: 70386997
-      Enemies_139: -902163370
-      Enemies_109: -91389027
-      Enemies_59: 184464744
-      Enemies_17: -619384246
-      Enemies_49: -774967354
-      Enemies_7: -982154763
-      Enemies_145: 1393753484
-      Enemies_105: -1227552522
-      Enemies_23: 1575510236
-      Enemies_14: -2044871820
-      Enemies_76: -1157220530
-      Enemies_141: -201068686
+      bee2: -2102151770
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
