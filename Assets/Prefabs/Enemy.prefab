@@ -318,6 +318,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   indestructible: 0
-  speed: 5
+  knockback: 10
+  life: 1
+  speed: 2
   direction: 1
   directionTimeChange: 5

@@ -260,7 +260,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: speed
-      value: 7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: knockback
@@ -400,7 +400,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!50 &36250427
@@ -951,7 +951,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: speed
-      value: 7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: knockback
@@ -1839,7 +1839,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 5
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &516811907
@@ -4206,7 +4206,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1066399546
@@ -4641,7 +4641,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: speed
-      value: 7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5997751395642724545, guid: 63d5672214d85be44924c69e51e14923, type: 3}
       propertyPath: knockback
@@ -4958,7 +4958,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1214042523
@@ -5472,7 +5472,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1449659694
@@ -7338,7 +7338,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1615099327
@@ -11364,7 +11364,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1893326336
@@ -11721,7 +11721,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &1933996206
@@ -12116,7 +12116,7 @@ MonoBehaviour:
   indestructible: 0
   knockback: 5
   life: 3
-  speed: 3
+  speed: 2
   direction: 1
   directionTimeChange: 5
 --- !u!61 &2008912370
